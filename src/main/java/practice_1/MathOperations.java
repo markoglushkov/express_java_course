@@ -1,3 +1,5 @@
+package practice_1;
+
 public class MathOperations {
     public static void main(String[] args) {
         // add, subtract, multiply, divide
@@ -7,7 +9,7 @@ public class MathOperations {
         System.out.println(divide(100, 2));
 
         // find max
-        System.out.println(findMax(100, 500));
+        System.out.println("Max value: " + findMax(100, 500));
 
         // calculate difference
         System.out.println(difference(10, 20));
