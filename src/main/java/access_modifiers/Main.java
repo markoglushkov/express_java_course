@@ -4,16 +4,16 @@ public class Main {
     public static void main(String[] args) {
 
 //        // Task 1
-//        Company empl1 = new Company(1, "Marko");
-//        Company empl2 = new Company(2, "Dragana");
-//        Company empl3 = new Company(3, "Nebojša");
-//
-//        Company.companyName = "NCR";
-//
-//        System.out.println(empl1.companyName);
-//        System.out.println(empl2.companyName);
-//        System.out.println(empl3.companyName);
-//
+        Company empl1 = new Company(1, "Marko");
+        Company empl2 = new Company(2, "Dragana");
+        Company empl3 = new Company(3, "Nebojša");
+
+        Company.companyName = "NCR";
+
+        System.out.println(empl1.companyName);
+        System.out.println(empl2.companyName);
+        System.out.println(empl3.companyName);
+
 //        empl1.employeeID = 33;
 //
 //        // Task 2
